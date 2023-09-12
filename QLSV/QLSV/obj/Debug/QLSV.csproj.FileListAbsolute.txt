@@ -1,0 +1,173 @@
+E:\DoAn\QLSV\QLSV\bin\Debug\QLSV.exe.config
+E:\DoAn\QLSV\QLSV\bin\Debug\QLSV.exe
+E:\DoAn\QLSV\QLSV\bin\Debug\QLSV.pdb
+E:\DoAn\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+E:\DoAn\QLSV\QLSV\obj\Debug\QLSV.DangNhap.resources
+E:\DoAn\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+E:\DoAn\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+E:\DoAn\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+E:\DoAn\QLSV\QLSV\obj\Debug\QLSV.exe
+E:\DoAn\QLSV\QLSV\obj\Debug\QLSV.pdb
+E:\DoAn\QLSV\QLSV\obj\Debug\QLSV.QuanLySinhVien.resources
+D:\Code\CSharp\DoAn\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\Code\CSharp\DoAn\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\Code\CSharp\DoAn\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\Code\CSharp\DoAn\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\Code\CSharp\DoAn\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\Code\CSharp\DoAn\QLSV\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+D:\Code\CSharp\DoAn\QLSV\QLSV\obj\Debug\QLSV.DangNhap.resources
+D:\Code\CSharp\DoAn\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\Code\CSharp\DoAn\QLSV\QLSV\obj\Debug\QLSV.QuanLySinhVien.resources
+D:\Code\CSharp\DoAn\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache
+D:\1\1\DoAn\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\1\1\DoAn\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\1\1\DoAn\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\1\1\DoAn\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\1\1\DoAn\QLSV\QLSV\obj\Debug\QLSV.DangNhap.resources
+D:\1\1\DoAn\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\1\1\DoAn\QLSV\QLSV\obj\Debug\QLSV.QuanLySinhVien.resources
+D:\1\1\DoAn\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\1\1\DoAn\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\1\1\DoAn\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\1\1\DoAn\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\1\1\DoAn\QLSV\QLSV\obj\Debug\QLSV.DoanVien.resources
+D:\1\1\DoAn\QLSV\QLSV\obj\Debug\QLSV.Khoa.resources
+D:\1\1\DoAn\QLSV\QLSV\obj\Debug\QLSV.Lop.resources
+D:\1\1\DoAn\QLSV\QLSV\obj\Debug\QLSV.QuanLy.resources
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\obj\Debug\QLSV.DangNhap.resources
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\obj\Debug\QLSV.DoanVien.resources
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\obj\Debug\QLSV.Khoa.resources
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\obj\Debug\QLSV.Lop.resources
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\obj\Debug\QLSV.QuanLy.resources
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\obj\Debug\QLSV.QuanLySinhVien.resources
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\obj\Debug\QLSV.TimKiemDV.resources
+D:\1\ĐỒ Án C#\Buoi6\QLSV\QLSV\obj\Debug\QLSV.TimKiemSV.resources
+D:\Code\CSharp\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\Code\CSharp\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\Code\CSharp\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\Code\CSharp\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\Code\CSharp\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\Code\CSharp\QLSV\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+D:\Code\CSharp\QLSV\QLSV\obj\Debug\QLSV.DangNhap.resources
+D:\Code\CSharp\QLSV\QLSV\obj\Debug\QLSV.DoanVien.resources
+D:\Code\CSharp\QLSV\QLSV\obj\Debug\QLSV.Khoa.resources
+D:\Code\CSharp\QLSV\QLSV\obj\Debug\QLSV.Lop.resources
+D:\Code\CSharp\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\Code\CSharp\QLSV\QLSV\obj\Debug\QLSV.QuanLy.resources
+D:\Code\CSharp\QLSV\QLSV\obj\Debug\QLSV.QuanLySinhVien.resources
+D:\Code\CSharp\QLSV\QLSV\obj\Debug\QLSV.TimKiemDV.resources
+D:\Code\CSharp\QLSV\QLSV\obj\Debug\QLSV.TimKiemSV.resources
+D:\Code\CSharp\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache
+D:\DoAnC#\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\DoAnC#\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\DoAnC#\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.DangNhap.resources
+D:\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.Khoa.resources
+D:\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.Lop.resources
+D:\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.QuanLy.resources
+D:\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.QuanLySinhVien.resources
+D:\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.TimKiemDV.resources
+D:\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.TimKiemSV.resources
+D:\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.csprojResolveAssemblyReference.cache
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.DangNhap.resources
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.DangVien.resources
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.Khoa.resources
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.Lop.resources
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.QuanLy.resources
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.QuanLySinhVien.resources
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.TimKiemDV.resources
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.TimKiemSV.resources
+D:\Code\CSharp\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.Cache
+D:\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.DangVien.resources
+E:\DoAnC#\DoAnC#\QLSV\QLSV\bin\Debug\QLSV.exe.config
+E:\DoAnC#\DoAnC#\QLSV\QLSV\bin\Debug\QLSV.exe
+E:\DoAnC#\DoAnC#\QLSV\QLSV\bin\Debug\QLSV.pdb
+E:\DoAnC#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+E:\DoAnC#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.DangNhap.resources
+E:\DoAnC#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.DangVien.resources
+E:\DoAnC#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.Khoa.resources
+E:\DoAnC#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.Lop.resources
+E:\DoAnC#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+E:\DoAnC#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.QuanLy.resources
+E:\DoAnC#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.QuanLySinhVien.resources
+E:\DoAnC#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.TimKiemDV.resources
+E:\DoAnC#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.TimKiemSV.resources
+E:\DoAnC#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+E:\DoAnC#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+E:\DoAnC#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.exe
+E:\DoAnC#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\obj\Debug\QLSV.DangNhap.resources
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\obj\Debug\QLSV.DangVien.resources
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\obj\Debug\QLSV.Khoa.resources
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\obj\Debug\QLSV.Lop.resources
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\obj\Debug\QLSV.QuanLy.resources
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\obj\Debug\QLSV.QuanLySinhVien.resources
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\obj\Debug\QLSV.TimKiemDV.resources
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\obj\Debug\QLSV.TimKiemSV.resources
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\obj\Debug\QLSV.exe
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\obj\Debug\QLSV.pdb
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\bin\Debug\QLSV.exe.config
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\bin\Debug\QLSV.exe
+C:\Users\Dell\Downloads\DoAnC# (2)\QLSV\QLSV\bin\Debug\QLSV.pdb
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.DangNhap.resources
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.DangVien.resources
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.Khoa.resources
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.Lop.resources
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.QuanLy.resources
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.QuanLySinhVien.resources
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.TimKiemDV.resources
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.TimKiemSV.resources
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.exe
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\obj\Debug\QLSV.pdb
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\bin\Debug\QLSV.exe.config
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\bin\Debug\QLSV.exe
+G:\Nam4DH\C#\DoAnC#\QLSV\QLSV\bin\Debug\QLSV.pdb
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\bin\Debug\QLSV.exe.config
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\bin\Debug\QLSV.exe
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\bin\Debug\QLSV.pdb
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\obj\Debug\QLSV.csproj.ResolveComReference.cache
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\obj\Debug\QLSV.DangNhap.resources
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\obj\Debug\QLSV.DangVien.resources
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\obj\Debug\QLSV.Khoa.resources
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\obj\Debug\QLSV.Lop.resources
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\obj\Debug\QLSV.QuanLy.resources
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\obj\Debug\QLSV.QuanLySinhVien.resources
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\obj\Debug\QLSV.TimKiemDV.resources
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\obj\Debug\QLSV.TimKiemSV.resources
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\obj\Debug\QLSV.exe
+G:\Nam4DH\C#\19CN5_Nhóm5_Quản Lý Đoàn Viên Trường Đại Học Kiến Trúc Hà Nội\Nhóm 5\QLSV\QLSV\obj\Debug\QLSV.pdb
